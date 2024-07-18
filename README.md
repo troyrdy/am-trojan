@@ -86,7 +86,7 @@
  - 添加变量 `ADD` 本地静态的优选线路，若不带端口号 TLS默认端口为443，#号后为备注别名，例如：
 
    ```
-   cf.809098.xyz:443#加入我的频道t.me/AM_CLUBS解锁更多优选节点
+   cf.trojan.809098.xyz:443#加入我的频道t.me/AM_CLUBS解锁更多优选节点
    time.is#你可以只放域名 如下
    www.visa.com.sg
    skk.moe#也可以放域名带端口 如下
