@@ -75,11 +75,11 @@
 ## Pages 上传 部署方法
 
 1. 部署 CF Pages：
-   - 下载 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/worker.zip) 文件，并点上 Star !!!
-   - 在 CF Pages 控制台中选择 `上传资产`后，为你的项目取名后点击 `创建项目`，然后上传你下载好的 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/worker.zip) 文件后点击 `部署站点`。
+   - 下载 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/_worker.js.zip) 文件，并点上 Star !!!
+   - 在 CF Pages 控制台中选择 `上传资产`后，为你的项目取名后点击 `创建项目`，然后上传你下载好的 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/_worker.js.zip) 文件后点击 `部署站点`。
    - 部署完成后点击 `继续处理站点` 后，选择 `设置` > `环境变量` > **制作**为生产环境定义变量 > `添加变量`。
      变量名称填写**PASSWORD**，值则为你的密码，后点击 `保存`即可。
-   - 返回 `部署` 选项卡，在右下角点击 `创建新部署` 后，重新上传 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/worker.zip) 文件后点击 `保存并部署` 即可。
+   - 返回 `部署` 选项卡，在右下角点击 `创建新部署` 后，重新上传 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/_worker.js.zip) 文件后点击 `保存并部署` 即可。
 
 2. 添加优选线路:
 
