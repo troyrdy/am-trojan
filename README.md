@@ -3,10 +3,10 @@
 
 - 视频教程：[小白教程](https://www.youtube.com/watch?v=1ixc2A9rchM) 
 
-- AM科技官网：[https://am.809098.xyz](官网)
-- YouTube：[https://youtube.com/@AM_CLUB](AM科技)
-- Telegram：[https://t.me/AM_CLUBS](AM_CLUBS)
-- Github：[https://github.com/ansoncloud8](ansoncloud8)
+- 官网教程：[AM科技](https://am.809098.xyz)
+- YouTube频道：[@AM_CLUB](https://youtube.com/@AM_CLUB)
+- Telegram交流群：[@AM_CLUBS](https://t.me/AM_CLUBS)
+- 免费订阅：[进群发送关键字: 订阅](https://t.me/AM_CLUBS)
 
 # 免责声明
 
