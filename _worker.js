@@ -10,14 +10,15 @@ let socks5Address = '';
 let addresses = [
 	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
 	'cf.trojan.809098.xyz:443#加入我的频道t.me/AM_CLUBS解锁更多优选节点',
-	'time.is#你可以只放域名 如下',
-	'www.visa.com.sg',
-	'skk.moe#也可以放域名带端口 如下',
-	'www.wto.org:8443',
-	'www.csgo.com:2087#节点名放在井号之后即可',
-	'icook.hk#若不带端口号默认端口为443',
-	'104.17.152.41#IP也可以',
-	'[2606:4700:e7:25:4b9:f8f8:9bfb:774a]#IPv6也OK',
+	'visa.com:443#订阅YouTube频道youtube.com/@AM_CLUB获取更多教程',
+	//'time.is#你可以只放域名 如下',
+	//'www.visa.com.sg',
+	//'skk.moe#也可以放域名带端口 如下',
+	//'www.wto.org:8443',
+	//'www.csgo.com:2087#节点名放在井号之后即可',
+	//'icook.hk#若不带端口号默认端口为443',
+	//'104.17.152.41#IP也可以',
+	//'[2606:4700:e7:25:4b9:f8f8:9bfb:774a]#IPv6也OK',
 ];
 
 let sub = ''; 
@@ -26,7 +27,7 @@ let subconfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/
 let subProtocol = 'https';
 let RproxyIP = 'false';
 
-let addressesapi = [];
+let addressesapi = ['https://raw.githubusercontent.com/ansoncloud8/am-tunnel/dev/ipv4.txt'];
 let addressescsv = [];
 let DLS = 8;
 
